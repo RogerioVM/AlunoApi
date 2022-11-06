@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32328.378
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AlunoApi", "AlunoApi\AlunoApi.csproj", "{38DA91FD-9772-4A6C-ABE9-EA046C07AB3E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{38DA91FD-9772-4A6C-ABE9-EA046C07AB3E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{38DA91FD-9772-4A6C-ABE9-EA046C07AB3E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{38DA91FD-9772-4A6C-ABE9-EA046C07AB3E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{38DA91FD-9772-4A6C-ABE9-EA046C07AB3E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4879D351-C2DF-46F2-93E1-CDA0850FBF45}
+	EndGlobalSection
+EndGlobal
