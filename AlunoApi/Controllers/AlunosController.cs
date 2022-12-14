@@ -22,7 +22,6 @@ public class AlunosController : ControllerBase
     status code,mas não é muito indicado usar para não poluir o código 
 
     */
-
     public async Task<ActionResult<IAsyncEnumerable<Aluno>>> GetAlunos()
     {
         try
